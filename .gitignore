@@ -1,0 +1,6 @@
+#Macbook storage temp files
+.DS_Store
+*.DS_Store
+
+#Libs
+bower_components
